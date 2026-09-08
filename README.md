@@ -1,2 +1,1 @@
-# temp-repo
-my profile repository
+ 안녕하세요. 설비소방공학과 202233482 박진호입니다.
