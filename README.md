@@ -1,2 +1,2 @@
-# jinho
+# temp-repo
 my profile repository
